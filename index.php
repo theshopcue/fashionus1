@@ -66,6 +66,13 @@ footer{background:#111;color:#fff;text-align:center;padding:30px;margin-top:50px
 <script>
 function go(id){ document.getElementById(id).scrollIntoView({behavior:'smooth'}); }
 </script>
+    <!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-9o_DgZty9FX6aNe55TcaD.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
 
 
     <!--Start of Tawk.to Script-->
